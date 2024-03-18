@@ -11,13 +11,15 @@ Welcome to our Online Student Classroom Portal! This platform provides students 
 ## Getting Started
 To get started with our Online Student Classroom Portal, follow these steps:
 
-1. **Login/Register:** If you're a new user, register for an account. If you're an existing user, simply login using your credentials.
-2. **Dashboard:** Once logged in, you'll land on your dashboard. From here, you can see an overview of your courses, assignments, and grades.
-3. **Select a Course:** Click on a course to enter its online classroom.
-4. **Explore Course Content:** In the course dashboard, you'll find tabs for assignments, grades, discussions, and more.
-5. **View Assignments:** Check for any upcoming assignments or tasks posted by the instructor.
-6. **Check Grades:** Monitor your grades to see your progress in the course.
-7. **Interact with Instructors:** Engage with your instructors through messaging or discussion forums if you have any questions or concerns.
+1. **Student Portal:** Visit the student portal website.
+2. **Login/Register:** If you're a new user, register for an account. If you're an existing user, simply login using your credentials.
+3. **Dashboard:** Once logged in, you'll land on your dashboard. From here, you can see an overview of your courses, assignments, and grades.
+4. **Select a Course:** Click on a course to enter its online classroom.
+5. **Explore Course Content:** In the course dashboard, you'll find tabs for assignments, grades, discussions, and more.
+6. **View Assignments:** Check for any upcoming assignments or tasks posted by the instructor.
+7. **Check Grades:** Monitor your grades to see your progress in the course.
+8. **Interact with Instructors:** Engage with your instructors through messaging or discussion forums if you have any questions or concerns.
+
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
