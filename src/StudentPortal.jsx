@@ -1,11 +1,7 @@
-import "./App.css";
+import "./StudentPortal";
 
-function App() {
-  return (
-    <>
-      <div>dasdas</div>
-    </>
-  );
-}
+const App = () => {
+  return <>hello</>;
+};
 
 export default App;
