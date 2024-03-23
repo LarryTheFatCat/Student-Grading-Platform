@@ -1,55 +1,36 @@
-# Online Student Classroom Portal
-
-Welcome to our Online Student Classroom Portal! This platform provides students with access to their online classrooms, where they can view assignments, grades, and interact with instructors.
-
-## Features
-- **Classroom Access:** Easily access your online classrooms from anywhere with an internet connection.
-- **View Assignments:** Stay up-to-date with assignments posted by instructors.
-- **Check Grades:** Monitor your grades and track your academic progress.
-- **Interact with Instructors:** Engage with instructors through messaging or discussion forums.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-To get started with our Online Student Classroom Portal, follow these steps:
 
-1. **Student Portal:** Visit the student portal website.
-2. **Login/Register:** If you're a new user, register for an account. If you're an existing user, simply login using your credentials.
-3. **Dashboard:** Once logged in, you'll land on your dashboard. From here, you can see an overview of your courses, assignments, and grades.
-4. **Select a Course:** Click on a course to enter its online classroom.
-5. **Explore Course Content:** In the course dashboard, you'll find tabs for assignments, grades, discussions, and more.
-6. **View Assignments:** Check for any upcoming assignments or tasks posted by the instructor.
-7. **Check Grades:** Monitor your grades to see your progress in the course.
-8. **Interact with Instructors:** Engage with your instructors through messaging or discussion forums if you have any questions or concerns.
+First, run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JSON Web Tokens (JWT)
-- **Other Tools:** Git, GitHub, Heroku (for deployment)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Installation
-If you're interested in setting up your own instance of our Online Student Classroom Portal, follow these steps:
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
-3. Install dependencies: `npm install`
-4. Set up environment variables (e.g., MongoDB URI, JWT secret)
-5. Run the application: `npm start`
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Contributing
-We welcome contributions from the community! If you'd like to contribute to our project, please follow these guidelines:
+## Learn More
 
-- Fork the repository
-- Create your feature branch: `git checkout -b feature-name`
-- Commit your changes: `git commit -am 'Add some feature'`
-- Push to the branch: `git push origin feature-name`
-- Submit a pull request
+To learn more about Next.js, take a look at the following resources:
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Contact
-If you have any questions or feedback, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Thank you for using our Online Student Classroom Portal! We hope you find it helpful for your academic journey.
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
